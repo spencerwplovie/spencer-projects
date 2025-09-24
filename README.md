@@ -6,7 +6,7 @@ Most projects are written in Python (which have been converted to Python noteboo
 Can be found in the **work_projects** folder.
 This includes:
 1) Summary of my 2-year term as a Scientific Data Associate at Ocean Networks Canada
-2) Project reports from my 3 co-op terms as a Junior Scientific Programmer at Ocean Networks Canada
+2) Project reports from my 1 year (3 co-op terms) as a Junior Scientific Programmer at Ocean Networks Canada
 3) Project report and code samples from my co-op term (and some paid research afterwards) as a Data Analyst Intern at the Herzberg Astronomy and Astrophysics Research Centre
 
 ## Other Research Work ##
