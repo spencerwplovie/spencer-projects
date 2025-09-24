@@ -18,8 +18,8 @@ This includes:
 Can be found in the **class_projects** folder.
 Code samples and projects from several classes, including:
 1) Final project for Time Series Analysis (Phys411)
-2) Numerical analysis assingments for Classical Mechanics (Phys321A)
-3) Statistical analysis assingment for Probability and Statistics (Stat260)
+2) Numerical analysis assignments for Classical Mechanics (Phys321A)
+3) Statistical analysis assignment for Probability and Statistics (Stat260)
 4) Assignment for Introduction to Astrophysics (Astro250)
 
 
